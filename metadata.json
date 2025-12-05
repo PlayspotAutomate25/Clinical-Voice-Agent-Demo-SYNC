@@ -1,0 +1,7 @@
+{
+  "name": "PlaySpotSync Medical AI",
+  "description": "A demonstration of Voice AI agents for medical clinics, featuring Front Desk and Urgent Triage assistants powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
